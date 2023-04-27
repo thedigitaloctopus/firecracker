@@ -18,7 +18,7 @@ changes to the Firecracker codebase. If you want to receive high-level but still
 commit-based feedback for a contribution, follow the
 [request for comments](#request-for-comments) steps instead.
 
-## Contribution Workflow details
+## Contribution Workflow
 
 Firecracker uses the “fork-and-pull” development model. Follow these steps if
 you want to merge your changes to Firecracker:
